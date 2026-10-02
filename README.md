@@ -1,13 +1,13 @@
-VulnGuard – Malware, Vulnerability & Attack Detection Tool
+# VulnGuard – Malware, Vulnerability & Attack Detection Tool
 VulnGuard is a Python and Streamlit based defensive log-analysis tool designed to detect suspicious attack and malware-related indicators from security logs.
-Case Study
+## Case Study
 This project is based on the RESURGE malware case associated with CVE-2025-0282 affecting Ivanti Connect Secure.
-Case Study Details
-- CVE: CVE-2025-0282
-- Affected Product: Ivanti Connect Secure
-- Vulnerability: Stack-Based Buffer Overflow
-- Initial Access: Unauthenticated Exploitation
-- Impact: Remote Code Execution
+### Case Study Details
+- **CVE:** CVE-2025-0282
+- **Affected Product:** Ivanti Connect Secure
+- **Vulnerability:** Stack-Based Buffer Overflow
+- **Initial Access:** Unauthenticated Exploitation
+- **Impact:** Remote Code Execution
 - Observed Behaviours: File manipulation, integrity-check manipulation, SSH tunneling and web-shell activity
 Objectives
 - Analyse security log files
