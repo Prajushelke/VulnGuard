@@ -46,3 +46,16 @@ VulnGuard calculates a risk score based on detected indicators.
 - LOW: Low-risk or no suspicious activity
 - MEDIUM: Suspicious activity detected
 - HIGH: Multiple or high-risk indicators detected
+- ## 📸 Screenshots
+
+### Security Dashboard
+![Malware Detection Result](malware_result.png)
+
+### Sample IP Detection
+![Sample IP Detection](sample_ip_result.png)
+
+### RESURGE Detection
+![RESURGE Detection](resurge_result.png)
+
+### Normal Log Result
+![Normal Log Result](normal_result.png)
